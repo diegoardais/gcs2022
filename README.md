@@ -1,9 +1,10 @@
 # gcs2022
 Repositório de testes da disciplina de GCS da PUCRS
 
-Este é o meu primeiro repositório.
+Este é o meu **primeiro** repositório.
 
 ## Disciplinas que estou cursando agora
-- Programação Orientada a Objetos
-- Banco de Dados 1
+- Algoritmos e Estruturas de Dados
 - Lógica para computação
+- Matemática Discreta
+- Sistemas Operacionais
